@@ -1,2 +1,2 @@
 # Pushover
-Simple Library for Pushover Service
+Simple unofficial Library for Pushover Service
